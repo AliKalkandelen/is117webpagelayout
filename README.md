@@ -5,6 +5,7 @@
 
 ALI KALKANDELEN 
 COMPUTER SCIENCE MAJOR
+Editing from my IPhone.
 
 
 

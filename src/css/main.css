@@ -89,19 +89,93 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+#container{
+   width: 980px;
+
+}
+
+#Nav_Bar {
+  background-color: white;
+    position: absolute;
+      left: 0px;
+        top: 0px;
+	  width: 1400px;
+	    height: 85px;
+	      z-index: 73;
+	      }
+
+
+#Menu-Bar {
+  background-color: rgb( 63, 130, 82 );
+    position: absolute;
+      left: 0px;
+        top: 85px;
+	  width: 1400px;
+	    height: 51px;
+	      z-index: 75;
+	      }
+
+#White_Background_copy {
+  background-color:white;
+    position: absolute;
+      left: 0px;
+        top: 135px;
+	  width: 1400px;
+	    height: 477px;
+	      z-index: 46;
+	      }
+
+
+#White_Background {
+  background-color:white;
+    position: absolute;
+      left: 0px;
+        top: 612px;
+	  width: 1400px;
+	    height: 1036px;
+	      z-index: 1;
+	      }
 
 
 
 
+.logo{
+        margin-left:210px;
+	margin-top:12px;
+	z-index: 151;
+
+}
 
 
+.bbb {
+      position: absolute;
+      left: 765px;
+        margin-top: 23px;
+	  z-index: 74;
+	      }
+
+.Available_7_Days_a_Week_CALL_US_TODAY_1_800_555 {
+  font-size: 14px;
+    font-family: "OpenSans";
+      color: rgb( 44, 44, 44 );
+        text-align: right;
+	  position: absolute;
+	    left: 923px;
+	      top: 28.25px;
+	        width: 203px;
+		  height: 28px;
+		    z-index: 88;
+		    }
 
 
-
-
-
-
-
+.facebook {
+     position: absolute;
+      left: 1158px;
+        top: 26px;
+	  width: 32px;
+	    height: 32px;
+	      z-index: 89;
+	      }
 
 
 
@@ -119,7 +193,16 @@ textarea {
 }
 
 /*
- * Hide only visually, but have it available for screen readers: h5bp.com/v
+ *yer_36 {
+   background-image: url("images/Layer 36.png");
+     position: absolute;
+       left: 765px;
+         top: 23px;
+	   width: 128px;
+	     height: 38px;
+	       z-index: 74;
+	       }
+	       Hide only visually, but have it available for screen readers: h5bp.com/v
  */
 
 .visuallyhidden {

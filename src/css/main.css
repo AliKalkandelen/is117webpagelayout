@@ -11,7 +11,6 @@
 html {
     color: #222;
     font-size: 1em;
-    line-height: 1.4;
 }
 
 /*
@@ -116,7 +115,7 @@ textarea {
 	      }
 
 #White_Background_copy {
-  background-color:white;
+  background-color:red;
     position: absolute;
       left: 0px;
         top: 135px;
@@ -128,19 +127,6 @@ p#White_Background_copy  {
  text-align:center;
 
 }
-
-#White_Background {
-  background-color:white;
-    position: absolute;
-      left: 0px;
-        top: 612px;
-	  width: 1400px;
-	    height: 1036px;
-	      z-index: 1;
-	      }
-
-
-
 
 .logo{
         margin-left:210px;
@@ -224,6 +210,35 @@ p#White_Background_copy  {
 	        letter-spacing: 10px;
 		      z-index: 69;
 		      }
+
+
+.video {
+        display:block;
+        margin-right:auto;
+	margin-left:auto;
+	        z-index: 70;
+		}
+
+
+#White_Background {
+    color:white;
+    position: absolute;
+      left: 0px;
+        top: 612px;
+	  width: 1400px;
+	    height: 1036px;
+	      z-index: 1;
+	      }
+
+
+
+.facebook_bar{
+ display:block;
+ margin-right:auto;
+ margin-left:auto;
+ z-index:71;
+}
+
 
 
 /* ==========================================================================

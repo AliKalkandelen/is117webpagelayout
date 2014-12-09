@@ -124,7 +124,10 @@ textarea {
 	    height: 477px;
 	      z-index: 46;
 	      }
+p#White_Background_copy  {
+ text-align:center;
 
+}
 
 #White_Background {
   background-color:white;
@@ -161,9 +164,9 @@ textarea {
         text-align: right;
 	  position: absolute;
 	    left: 923px;
-	      top: 28.25px;
-	        width: 203px;
-		  height: 28px;
+	      top: 12.25px;
+	       width: 223px;
+		  height: 38px;
 		    z-index: 88;
 		    }
 
@@ -177,6 +180,50 @@ textarea {
 	      z-index: 89;
 	      }
 
+.menu{
+     list-style-type:none;
+     text-align: center;
+}
+
+.menu li{
+    font-size:14px;
+    font-family: "Opensans";
+    display:inline;
+    padding-right:80px;
+    color: rgb( 255,255,255 );
+    text-transform:uppercase;
+    text-decoration:none;
+}
+
+.callusnow {
+  font-size: 36px;
+    font-family: "Helvetica";
+      color: rgb( 93, 93, 93 );
+        font-weight: bold;
+	  text-align: center;
+		      z-index: 68;
+		     }
+.dedicated{
+  font-size: 16px;
+  font-family: "Helvetica";
+  color: #8f8f8f;
+  font-weight:nonei;
+  text-align:center;
+  z-index:68;
+}
+
+
+.Serving {
+  font-size: 14px;
+    font-family: "Helvetica";
+      color: rgb( 63, 130, 82 );
+        font-weight: bold;
+	  text-transform: uppercase;
+	    line-height: 1.429;
+	      text-align: center;
+	        letter-spacing: 10px;
+		      z-index: 69;
+		      }
 
 
 /* ==========================================================================

@@ -115,7 +115,7 @@ textarea {
 	      }
 
 #White_Background_copy {
-  background-color:red;
+  background-color:white;
     position: absolute;
       left: 0px;
         top: 135px;
@@ -220,8 +220,8 @@ p#White_Background_copy  {
 		}
 
 
-#White_Background {
-    color:white;
+#White_Background2 {
+    color:red;
     position: absolute;
       left: 0px;
         top: 612px;
@@ -230,14 +230,25 @@ p#White_Background_copy  {
 	      z-index: 1;
 	      }
 
-
-
 .facebook_bar{
  display:block;
  margin-right:auto;
  margin-left:auto;
  z-index:71;
 }
+
+.Welcome {
+   font-size: 14px;
+   font-family: "OpenSans";
+   color: rgb( 44, 44, 44 );
+   font-weight: bold;
+   text-transform: uppercase;
+   line-height: 1.786;
+   position: absolute;
+   left: 209.988px;
+   top: 725.25px;
+   z-index: 79;
+		    }
 
 
 

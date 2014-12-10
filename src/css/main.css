@@ -115,7 +115,7 @@ textarea {
 	      }
 
 #White_Background_copy {
-  background-color:white;
+  background-color:red;
     position: absolute;
       left: 0px;
         top: 135px;
@@ -237,18 +237,36 @@ p#White_Background_copy  {
  z-index:71;
 }
 
-.Welcome {
+.Aboutcontainer {
+   width:490px;
+   float:left;
+   margin-left:211px;
    font-size: 14px;
-   font-family: "OpenSans";
+   font-family: "Helvetica";
    color: rgb( 44, 44, 44 );
-   font-weight: bold;
-   text-transform: uppercase;
    line-height: 1.786;
-   position: absolute;
-   left: 209.988px;
-   top: 725.25px;
    z-index: 79;
 		    }
+
+
+.aboutlist{
+   font-size: 14px;
+   font-family: "Myriad Pro";
+   color: rgb( 44, 44, 44 );
+   line-height: 1.786;
+   width:385px;
+   float:right;
+   margin-right:210px;
+   z-index: 78;
+}
+
+ute;
+	      left: 803.937px;
+	        top: 724.25px;
+		  z-index: 78;
+		  }
+
+
 
 
 
